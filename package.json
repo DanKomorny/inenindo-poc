@@ -18,6 +18,7 @@
     "@babylonjs/gui": "^4.1.0",
     "@babylonjs/inspector": "^4.1.0",
     "@babylonjs/loaders": "^4.1.0",
+    "@babylonjs/materials": "^4.1.0",
     "@rollup/plugin-commonjs": "^12.0.0",
     "@snowpack/app-scripts-svelte": "^1.1.4",
     "@snowpack/plugin-babel": "^1.0.0",
@@ -42,7 +43,7 @@
     "svelte": "^3.21.0",
     "tailwindcss": "^1.4.6",
     "tslib": "^2.0.0",
-    "typescript": "^3.9.3"
+    "typescript": "^3.9.5"
   },
   "husky": {
     "hooks": {

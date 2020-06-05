@@ -4,8 +4,7 @@
 
 Babylon.js additional packages
 
-`npm install --save-dev @babylonjs/core
-@babylonjs/gui @babylonjs/loaders @babylonjs/inspector babylon-vrm-loader`
+`npm install --save-dev @babylonjs/core @babylonjs/gui @babylonjs/loaders @babylonjs/materials babylon-vrm-loader`
 
 ### Production-ready boilerplate for immediate development or further bootstrapping
 
